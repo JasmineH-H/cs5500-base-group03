@@ -20,7 +20,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 
 1. **Name:** ______Ziming(Alan)Yi____________________ **Date:** ___Sep/08/2025_______ **Role:** ___TBD_______________________
 
-2. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+2. **Name:** Jiaying Huang **Date:** Sep/08/2025 **Role:** TBD
 
 3. **Name:** __________________________ **Date:** __________ **Role:** __________________________
 
@@ -96,7 +96,7 @@ We have set the following performance expectations to maintain high standards:
 ## Meeting Schedules and Agendas
 **Weekly Team Meetings:** Our team will meet weekly to prepare for the TA standup and coordinate our work:
 1. **Frequency:** Weekly (team decides on specific day/time that works for all members)
-2. **Duration:** 60-90 minutes
+2. **Duration:** 60 minutes
 3. **Purpose:** 
    - Review progress since last meeting
    - Discuss blockers and challenges
@@ -109,7 +109,7 @@ We have set the following performance expectations to maintain high standards:
    - Technical discussions and problem-solving
    - Task assignment and sprint planning
    - TA standup preparation
-5. **Minutes:** Team Lead records key decisions and action items, shares with team within 24 hours
+5. **Minutes:** Each menber can record key decisions and action items, shares through team chat
 
 ## Ensuring Adherence to the Charter
 To ensure we adhere to this charter, we will:
