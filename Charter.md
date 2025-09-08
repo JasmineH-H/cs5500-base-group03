@@ -18,7 +18,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 **Team Member Signatures:**
 <!-- Each member: Edit this file, add your name and date, then commit with message "Add [Your Name] to charter sign-in" -->
 
-1. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+1. **Name:** ______Ziming(Alan)Yi____________________ **Date:** ___Sep/08/2025_______ **Role:** ___TBD_______________________
 
 2. **Name:** __________________________ **Date:** __________ **Role:** __________________________
 
