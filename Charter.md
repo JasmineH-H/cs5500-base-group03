@@ -22,7 +22,7 @@ This Team Charter outlines the purpose, objectives, roles, responsibilities, and
 
 2. **Name:** Jiaying Huang **Date:** Sep/08/2025 **Role:** TBD
 
-3. **Name:** __________________________ **Date:** __________ **Role:** __________________________
+3. **Name:** Boyuan Sun **Date:** Sep/08/2025 **Role:** TBD
 
 4. **Name:** __________________________ **Date:** __________ **Role:** __________________________ (if applicable)
 
