@@ -10,7 +10,7 @@ Week 1 September 14
 - [Team Member 1]
 - [Team Member 2]
 - [Team Member 3]
-- [Team Member 4]
+- Boyuan/Martin
 - [Team Member 5]
 
 ---
@@ -22,7 +22,7 @@ Briefly describe the purpose of this retrospective and what you aim to achieve.
 
 ## What Went Well
 List the things that went well during the project.
--
+- All went well
 -
 -
 
@@ -30,7 +30,7 @@ List the things that went well during the project.
 
 ## What Could Be Improved
 List the areas where there is room for improvement.
--
+- NA
 -
 -
 
@@ -38,7 +38,7 @@ List the areas where there is room for improvement.
 
 ## Action Items
 Identify actionable steps that can be taken to improve future projects.
-1.
+1. NA
 2.
 3.
 
@@ -77,13 +77,13 @@ Identify actionable steps that can be taken to improve future projects.
 
 ### [Team Member 4]
 - **Achievements and Contributions:**
-  -
+  - made commits to charter
 - **Challenges Faced:**
-  -
+  - not playing git so well
 - **Areas for Improvement:**
-  -
+  - git usage
 - **Feedback and Suggestions:**
-  -
+  - NA
 
 ### [Team Member 5]
 - **Achievements and Contributions:**
@@ -100,11 +100,11 @@ Identify actionable steps that can be taken to improve future projects.
 ## Overall Team Assessment
 Reflect on the team's performance as a whole.
 - **Team Strengths:**
-  -
+  - Not available yet
 - **Areas for Improvement:**
-  -
+  - Not available yet
 - **Suggestions for Future Projects:**
-  -
+  - Not available yet
 
 ---
 
